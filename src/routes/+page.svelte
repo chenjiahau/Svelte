@@ -1,5 +1,5 @@
 <script>
-  let message = 'Hello World!';
+   import Child from './child.svelte';
 </script>
 
-<h1>{message}</h1>
+<Child/>
